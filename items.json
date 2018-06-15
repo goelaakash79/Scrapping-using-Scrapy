@@ -1,0 +1,163 @@
+[{
+    "category": "Grocery staples and more",
+    "name": "KNR SHANGHAI HOT&SOUR CHICKEN SOUP",
+    "weight": "38 gm",
+    "discount": "23%",
+    "market_price": "65/-",
+    "image_url": "https://www.easyday.in/uploads/product/knr-shanghai-hot_sour-chicken-soup-1.jpg",
+    "easyday_price": "50/-"
+  },
+  {
+    "category": "Beverages",
+    "name": "RED LABEL CTC TEA PP",
+    "weight": "1 kg",
+    "discount": "11%",
+    "market_price": "350/-",
+    "image_url": "https://www.easyday.in/uploads/product/red-label-ctc-tea-pp-1kg.jpg",
+    "easyday_price": "310/-"
+  },
+  {
+    "category": "Grocery staples and more",
+    "name": "VENKYS FRZ SNACK CHIK KEEMA",
+    "weight": "250 gm",
+    "discount": "15%",
+    "market_price": "145/-",
+    "image_url": "https://www.easyday.in/uploads/product/venkys-frz-snack-chik-keema-250g-1.jpg",
+    "easyday_price": "123/-"
+  },
+  {
+    "category": "Bread dairy and eggs",
+    "name": "BRITANNIA CHEESE CHEEZZ PIZZA BLOCK",
+    "weight": "200 gm",
+    "discount": "12%",
+    "market_price": "140/-",
+    "image_url": "https://www.easyday.in/uploads/product/britannia-cheese-cheezz-pizza-block-200g.jpg",
+    "easyday_price": "123/-"
+  },
+  {
+    "category": "Bread dairy and eggs",
+    "name": "Nutralite Tub",
+    "weight": "500 gm",
+    "discount": "11%",
+    "market_price": "175/-",
+    "image_url": "https://www.easyday.in/uploads/product/nutralite-tub-500gm.jpg",
+    "easyday_price": "155/-"
+  },
+  {
+    "category": "Grocery staples and more",
+    "name": "VENKYS NON VEG SNCK CHKN NUGGETS",
+    "weight": "500 gm",
+    "discount": "15%",
+    "market_price": "250/-",
+    "image_url": "https://www.easyday.in/uploads/product/venkys-non-veg-snck-chkn-nuggets-500g.jpg",
+    "easyday_price": "212/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "APPLE KASHMIR",
+    "weight": "1 kg",
+    "discount": "10%",
+    "market_price": "100/-",
+    "image_url": "https://www.easyday.in/uploads/product/apple-1.jpg",
+    "easyday_price": "89/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "KIWI IMPORTED",
+    "weight": "1 EA",
+    "discount": "15%",
+    "market_price": "32/-",
+    "image_url": "https://www.easyday.in/uploads/product/kiwni.jpg",
+    "easyday_price": "28/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "ORANGE",
+    "weight": "1 kg",
+    "discount": "15%",
+    "market_price": "100/-",
+    "image_url": "https://www.easyday.in/uploads/product/orange.jpg",
+    "easyday_price": "85/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "CAULIFLOWER",
+    "weight": "1 kg",
+    "discount": "15%",
+    "market_price": "40/-",
+    "image_url": "https://www.easyday.in/uploads/product/cauliflower.jpg",
+    "easyday_price": "34/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "CARROT RED",
+    "weight": "1 kg",
+    "discount": "15%",
+    "market_price": "70/-",
+    "image_url": "https://www.easyday.in/uploads/product/1t6yeq3q.png",
+    "easyday_price": "60/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "BRINJAL BHARTA",
+    "weight": "1 kg",
+    "discount": "15%",
+    "market_price": "40/-",
+    "image_url": "https://www.easyday.in/uploads/product/brinjal.jpg",
+    "easyday_price": "34/-"
+  },
+  {
+    "category": "Fruits and vegetables",
+    "name": "SAFAL PEAS GREEN PEAS",
+    "weight": "200 gm",
+    "discount": "25%",
+    "market_price": "45/-",
+    "image_url": "https://www.easyday.in/uploads/product/safal-peas-green-peas-200g.jpg",
+    "easyday_price": "34/-"
+  },
+  {
+    "category": "Home Care",
+    "name": "SURF DET POW EXCEL MATIC FRONT LOAD",
+    "weight": "2 kg",
+    "discount": "15%",
+    "market_price": "480/-",
+    "image_url": "https://www.easyday.in/uploads/product/surf-det-pow-excel-matic-front-load-2kg.jpg",
+    "easyday_price": "410/-"
+  },
+  {
+    "category": "Personal Care",
+    "name": "CLINIC PLUS SHMP STRG & LNG PUMP",
+    "weight": "650 ml",
+    "discount": "18%",
+    "market_price": "360/-",
+    "image_url": "https://www.easyday.in/uploads/product/clinic.jpg",
+    "easyday_price": "295/-"
+  },
+  {
+    "category": "Personal Care",
+    "name": "NIVEA BL COCOA NOURISH DRY SKN",
+    "weight": "250 ml",
+    "discount": "14%",
+    "market_price": "250/-",
+    "image_url": "https://www.easyday.in/uploads/product/nivea-bl-cocoa-nourish-dry-skn-250ml-1.jpg",
+    "easyday_price": "215/-"
+  },
+  {
+    "category": "Personal Care",
+    "name": "DOVE SHAMPOO DAILY SHINE",
+    "weight": "340 ml",
+    "discount": "16%",
+    "market_price": "247/-",
+    "image_url": "https://www.easyday.in/uploads/product/dove-shampoo-daily-shine-340ml.jpg",
+    "easyday_price": "207/-"
+  },
+  {
+    "category": "Personal Care",
+    "name": "WHISPER SANITRY PAD ULTRA WGS XL",
+    "weight": "30 pad",
+    "discount": "11%",
+    "market_price": "310/-",
+    "image_url": "https://www.easyday.in/uploads/product/whisper-sanitry-pad-ultra-wgs-xl-30p.jpg",
+    "easyday_price": "275/-"
+  }
+]
